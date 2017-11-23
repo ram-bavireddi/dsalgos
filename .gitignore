@@ -1,0 +1,4 @@
+out/*
+.idea/*
+*.iml
+bytes_result
